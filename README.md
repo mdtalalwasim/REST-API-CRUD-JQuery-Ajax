@@ -1,5 +1,5 @@
 # REST-API with JQuery DataTable and Ajax
-Student-Registration-System-REST-API-JQuery-DataTable-Ajax.
+Student-Registration-System-CRUD-Operation-REST-API-JQuery-DataTable-Ajax.
 # ScreenShot:
 ![Spring Boot Rest Api JQuery and Ajax-1](https://user-images.githubusercontent.com/91146041/212526244-8f74b90c-99f2-4c60-a4d3-3a04f262b9a4.png)
 
